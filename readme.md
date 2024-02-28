@@ -1,0 +1,1 @@
+`nokia_ont_pwgen.py` - Standalone version of password generator. It can be used in [Nokia G-010G-T](https://hack-gpon.org/ont-nokia-g-010g-t/) and probably other ONTs based on [CIG G-97CP](https://hack-gpon.org/ont-cig-g-97cp/) device.
